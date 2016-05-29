@@ -1,0 +1,34 @@
+{
+  "name": "json_merger-loader",
+  "version": "1.0.1",
+  "description": "json_merger loader for webpack. Merge JSON with indicators such as @override, @match, @delete and @insert to tell the processor how to merge the files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopach/json_merger-loader.git"
+  },
+  "keywords": [
+    "JSON",
+    "merge",
+    "extend",
+    "compile",
+    "build",
+    "generate",
+    "include",
+    "inject",
+    "webpack",
+    "loader"
+  ],
+  "author": "Igor Kopach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kopach/json_merger-loader/issues"
+  },
+  "homepage": "https://github.com/kopach/json_merger-loader#readme",
+  "dependencies": {
+    "json_merger": "^1.0.5"
+  }
+}
