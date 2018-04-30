@@ -1,4 +1,6 @@
 # json_merger-loader
+[![Known Vulnerabilities](https://snyk.io/test/github/kopach/json_merger-loader/badge.svg?targetFile=package.json)](https://snyk.io/test/github/kopach/json_merger-loader?targetFile=package.json)
+
 [json_merger](https://www.npmjs.com/package/json_merger) loader for webpack. Merge JSON with indicators such as `@override`, `@match`, `@delete` and `@insert` to tell the processor how to merge the files
 
 ## installation
